@@ -81,7 +81,7 @@ The dataset used in this project is available in the repository.
 
 **Dataset:** Lending Default Risk Data
 
-[View Dataset](data/Lending_Default_Risk_Data.csv)
+[View Dataset]([data/Lending_Default_Risk_Data.csv](https://github.com/Karthikendra/lending-default-risk-EDA/raw/refs/heads/main/Lending_Default_Risk_Data.csv))
 ---
 ## 📁 Repository Structure
 
