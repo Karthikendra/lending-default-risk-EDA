@@ -65,7 +65,24 @@ The objective is to understand the dataset, assess data quality, identify patter
 - Default Status
 
 ---
+## 📂 Project Files
 
+| File | Description |
+|------|-------------|
+| [EDA Notebook](Lending_Default_Risk_EDA.ipynb) | Complete Exploratory Data Analysis |
+| [Dataset](data/Lending_Default_Risk_Data.csv) | Dataset used for analysis |
+| [Requirements](requirements.txt) | Python dependencies |
+| [Project Visualizations](images/) | EDA charts and visualizations |
+| [Project Reports](reports/) | Documentation and reports |
+--
+## 📊 Dataset Preview
+
+The dataset used in this project is available in the repository.
+
+**Dataset:** Lending Default Risk Data
+
+[View Dataset](data/Lending_Default_Risk_Data.csv)
+---
 ## 📁 Repository Structure
 
 ```text
