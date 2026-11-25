@@ -70,3 +70,12 @@ lending-default-risk-EDA/
 ├── reports/
 ├── data/
 └── requirements.txt
+## 📈 Project Outcomes
+This analysis aims to identify data quality issues, understand financial variable distributions, explore relationships between borrower characteristics and default status, and develop insights that can support future machine learning-based credit risk analysis.
+🚀 Future Scope
+- Data preprocessing and feature engineering
+- Credit risk prediction using Machine Learning
+- Model evaluation and performance comparison
+- Explainable AI for credit risk analysis
+👨‍💻 Author
+Karthikendra A B
