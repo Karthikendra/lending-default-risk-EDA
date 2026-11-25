@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Project](https://img.shields.io/badge/Project-EDA-success)
+
 # Lending Default Risk – Exploratory Data Analysis
 
 ## 📌 Project Overview
